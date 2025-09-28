@@ -1,7 +1,0 @@
-[console_scripts]
-draw_circle = my_robot_controller.draw_circle:main
-pose_subscriber = my_robot_controller.pose_subscriber:main
-temperature_publisher = my_robot_controller.temperature_publisher:main
-temperature_subscriber = my_robot_controller.temperature_subscriber:main
-test_node = my_robot_controller.my_first_node:main
-
