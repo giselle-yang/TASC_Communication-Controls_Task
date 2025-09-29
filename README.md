@@ -22,6 +22,7 @@ Brief explanation (1–2 paragraphs) describing:
 - I think this data would be helpful for the robot's safety and contribute to its sensing
 - By knowing whether or not the robot itself was too hot or cold, it can then act accordingly to ensure
   that its internal temperature is running at a proper temperature. 
+
 **How would I improve this**
   - Instead of using a given set of temperature data, I would've liked to try using my CPU temperature
     to monitor in real time and see if it is overheating or not.
